@@ -2,10 +2,9 @@
   "name": "learn-travis",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nelsonic/learn-travis.git"
+    "url": "https://github.com/patrickkim93/travis-ci"
   },
   "description": "Simple nodejs, travis and grunt demo",
-  "author": "https://twitter.com/nelsonic",
   "version": "1.0.0",
   "devDependencies": {
     "jshint": "^2.8.0"
